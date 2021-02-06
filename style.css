@@ -10,7 +10,7 @@ h1 {
 
 .picture-card {
   width: 200px;
-  height: 350px;
+  height: 300px;
   margin-left: 10px;
   margin-right: 10px;
   margin-bottom: 20px;
@@ -41,7 +41,7 @@ h2 {
   object-fit: cover;
   border-radius: 50%;
   width: 200px;
-  height: 400px;
+  height: 300px;
 }
 
 @keyframes animated_div {
