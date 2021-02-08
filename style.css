@@ -105,7 +105,7 @@ h2 {
 }
 
 #btn-work {
-  background-color: rgba(39, 111, 191, 1);
+  background-color: rgb(184, 208, 235);
   border: 1px solid white;
   border-radius: 4px;
   color: white;
@@ -123,7 +123,7 @@ h2 {
 }
 
 #btn-fun {
-  background-color: rgb(0, 162, 255);
+  background-color: rgb(167, 217, 247);
   border: 1px solid white;
   border-radius: 4px;
   color: white;
@@ -136,16 +136,16 @@ h2 {
 
 #btn-fun:hover {
   background: white;
-  color: rgb(0, 162, 255);
+  color: rgba(0, 255, 191, 0.801);
   transition: 0.2s;
 }
 
 #work {
-  background: rgba(39, 191, 171, 0.1);
+  background: rgba(96, 218, 201, 0.1);
 }
 
 #work:hover {
-  background: rgba(39, 111, 191, 1);
+  background: rgb(150, 243, 243);
   color: white;
   transition: 0.6s;
 }
@@ -168,8 +168,8 @@ h2 {
 }
 
 .profile-image-round:hover {
-  width: 300px;
-  height: 300px;
+  width: 100px;
+  height: 100px;
   transition: 0.1s;
   animation: animated_div 5s 1;
 }
