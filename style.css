@@ -136,12 +136,12 @@ h2 {
 
 #btn-fun:hover {
   background: white;
-  color: rgba(41, 48, 42, 0.623);
+  color: rgba(246, 250, 247, 0.623);
   transition: 0.2s;
 }
 
 #work {
-  background: rgba(96, 218, 201, 0.1);
+  background: rgba(241, 245, 244, 0.1);
 }
 
 #work:hover {
@@ -158,11 +158,11 @@ h2 {
 }
 
 #fun {
-  background: rgba(2, 235, 235, 0.479);
+  background: rgb(30, 32, 32);
 }
 
 #fun:hover {
-  background: rgb(2, 51, 12);
+  background: rgb(28, 31, 29);
   color: white;
   transition: 0.6s;
 }
