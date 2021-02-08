@@ -136,17 +136,17 @@ h2 {
 
 #btn-fun:hover {
   background: white;
-  color: rgba(246, 250, 247, 0.623);
+  color: rgba(12, 12, 12, 0.623);
   transition: 0.2s;
 }
 
 #work {
-  background: rgba(241, 245, 244, 0.1);
+  background: rgba(8, 8, 8, 0.1);
 }
 
 #work:hover {
   background: rgb(31, 32, 32);
-  color: rgba(83, 75, 75, 0.685);
+  color: rgba(255, 247, 247, 0.685);
   transition: 0.6s;
 }
 
@@ -158,12 +158,12 @@ h2 {
 }
 
 #fun {
-  background: rgb(30, 32, 32);
+  background: rgb(7, 7, 7);
 }
 
 #fun:hover {
-  background: rgb(28, 31, 29);
-  color: white;
+  background: rgb(245, 247, 245);
+  color: rgb(7, 7, 7);
   transition: 0.6s;
 }
 
@@ -178,7 +178,7 @@ h2 {
   text-align: center;
   width: 60%;
   margin: 0 auto;
-  background: rgba(5, 5, 5, 0.746);                         /* White background */
+  background: rgba(77, 155, 116, 0);                         /* White background */
   padding: 30px;                             /* Internal space */
   border-radius: 4px;                        /* Small radius */
   box-shadow: 0 10px 30px rgba(0,0,0,.1);
@@ -192,5 +192,5 @@ ul {
 }
 
 body {
-  background: rgba(234, 234, 234,0.02);
+  background: rgba(253, 253, 253, 0.02);
 }
